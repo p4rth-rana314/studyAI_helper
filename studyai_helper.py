@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1cQgdvIqYJKK6Xgi_ygKwzFz1819IQ1pS
 """
 
-!pip install -q pyngrok google-colab pdfplumber google-generativeai \
+!pip install -q pyngrok pdfplumber google-generativeai \
 langchain langchain-google-genai langchain_community \
 sentence-transformers chromadb
 
